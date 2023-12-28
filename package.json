@@ -5,8 +5,10 @@
   "repository": "https://github.com/SulHyunRyung/NodeJS_L1.git",
   "author": "SulHyunRyung <tirofiralr@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "express": "^4.18.2",
+    "joi": "^17.11.0",
     "mongoose": "^8.0.3"
   }
 }
